@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+.card {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.603),rgb(226, 5, 5));
+    color: white;
+}
+h1 {
+    color: white;
+}
+a {
+    color: red;
+}

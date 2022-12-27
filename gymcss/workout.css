@@ -1,0 +1,11 @@
+body {
+    background-image: url(/gymcss/background_pics/workout.jpg);
+    background-repeat:no-repeat;
+    height: 400px;
+    background-size: 1500px;
+    color: white;
+}
+.card {
+    background-image:linear-gradient(rgba(162, 7, 223, 0.603),rgba(226, 5, 5, 0.774));
+    color: white;
+}

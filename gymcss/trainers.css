@@ -1,0 +1,23 @@
+body {
+    background-image: url(/gymcss/background_pics/2_background.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+}
+h1 {
+    color: rgb(204, 201, 200);
+}
+p {
+    color: white;
+    background-color: black;
+    width: 600px;
+}
+a {
+    color: red;
+}
+nav
+{
+    max-width:800px;
+    margin-left:0px;
+}
